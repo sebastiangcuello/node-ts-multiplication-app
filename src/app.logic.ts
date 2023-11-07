@@ -1,3 +1,6 @@
+//Este archivo fue el primero que se creo, pero despues se creo el archivo app.ts
+//en el cual se realizo un refactor de este código en diferentes carpetas/clases con una arquitectura limpia
+
 import fs from 'fs';
 import { yarg } from './config/plugins/args.plugin';
 
